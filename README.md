@@ -1,2 +1,2 @@
-Lab 1 tutorial
-Lab 2
+Lab 1 tutorial <br />
+Lab 2 Continuous integration And workflow 
